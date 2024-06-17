@@ -4,10 +4,9 @@
 ![aye](https://user-images.githubusercontent.com/30454945/90326564-f32a5800-dfb3-11ea-92e3-bdfb572089c8.jpg)
 ## I'm a Young Man,Developer,QA,Product!!
 
-- 🌱 I’m currently learning and grow up
-- 👯 I’m passion for Data,Quality and Product
-- 🥅 2022 Goals: Learn more about product and quality assurance(include for digital marketing)
-- ⚡ Fun fact: I love sporting like(basketball or badminton)
+- 🌱 I’m currently learning and grow up.
+- 👯 I’m passion for Data,Quality and Product.
+- 🥅 2024 Goals: (Still) Learn more about product and quality assurance.
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -18,7 +17,6 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Selenium" width="26px" src="https://www.selenium.dev/images/selenium_logo_square_green.png" style="padding-right:10px;" />
-<img align="left" alt="Grafana" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Grafana_logo.svg/1200px-Grafana_logo.svg.png" style="padding-right:10px;" />
 
 <br />
 <br />

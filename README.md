@@ -17,6 +17,7 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Selenium" width="26px" src="https://www.selenium.dev/images/selenium_logo_square_green.png" style="padding-right:10px;" />
+<img align="left" alt="Playwright" width="26px" src="https://playwright.dev/python/img/playwright-logo.svg" style="padding-right:10px;" />
 
 <br />
 <br />
